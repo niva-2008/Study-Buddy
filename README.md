@@ -1,6 +1,10 @@
 # 📚 AI Study Buddy
 An intelligent study assistant built with **Streamlit** and **LangChain**. It uses the **Llama 3** model via **Groq** to provide lightning-fast responses.
 
+## 🔗 Live Demo
+🚀 **[View the Live App Here](https://study-buddy-puz5azjw56pmmkbyk9qhc7.streamlit.app/)
+
+
 ## 🚀 Features
 * **PDF Analysis:** Upload your study notes and ask questions about them.
 * **Smart Summaries:** Get concise summaries of long documents.
