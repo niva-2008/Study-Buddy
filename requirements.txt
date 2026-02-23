@@ -1,8 +1,12 @@
 streamlit
+os
 langchain
 langchain-groq
 langchain-text-splitters
 langchain-community
+langchain-core
+langchain-huggingface
+langchain-classic
 python-dotenv
 pypdf
 faiss-cpu
