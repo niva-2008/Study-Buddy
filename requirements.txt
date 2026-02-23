@@ -1,6 +1,9 @@
 streamlit
 langchain
 langchain-groq
+langchain-text-splitters
+langchain-community
 python-dotenv
-PyPDF2
+pypdf
 faiss-cpu
+tiktoken
