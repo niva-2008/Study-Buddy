@@ -3,6 +3,7 @@ langchain
 langchain-groq
 langchain-text-splitters
 langchain-community
+langchain-huggingface
 python-dotenv
 pypdf
 faiss-cpu
