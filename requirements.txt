@@ -2,5 +2,5 @@ streamlit
 langchain
 langchain-groq
 python-dotenv
-pypdf
+PyPDF2
 faiss-cpu
